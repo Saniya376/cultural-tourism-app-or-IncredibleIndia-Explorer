@@ -70,7 +70,7 @@ Make sure Python 3.8+ is installed.
 
 | Cultural Sites by City             | Tourist Arrival Trends            |
 |-----------------------------------|-----------------------------------|
-| C:\Users\HP\Documents\CulturalTourismApp\Images |
+| (https://drive.google.com/file/d/11Z-FcxkmeJr4Bv1sGML1r7XIddlLdVGV/view?usp=drivesdk)|
 
 ---
 
@@ -97,7 +97,7 @@ Make sure Python 3.8+ is installed.
 ## 📽 Demo & Presentation
 
 🎥 **Demo Video:** [YouTube / Drive Link]  
-📑 **Presentation Slides:** [C:\Users\HP\Documents\CulturalTourismApp]  
+📑 **Presentation Slides:** [(https://1drv.ms/p/c/a7dc98c68e00af80/EX8n8T4iFKZPq_uTeCOJlC0B9ZcTJST8jnxDekiKVlnR5g]  
 📦 **Dataset Source:** https://data.gov.in
 
 ---
